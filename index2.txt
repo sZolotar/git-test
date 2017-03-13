@@ -1,3 +1,7 @@
 second branch
+<<<<<<< HEAD
 Hi
 yeap
+=======
+from second local repo
+>>>>>>> 72c13c132c9cadafaeb9cd2e8f4d52f56a8c9ab6
